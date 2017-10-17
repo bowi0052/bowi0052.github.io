@@ -147,7 +147,11 @@ li {
 }
 
 .pro-name {
-  
+  font-family: sans-serif;;
+}
+
+.pro-desc {
+  font-family: sans-serif;
 }
 
 footer {
