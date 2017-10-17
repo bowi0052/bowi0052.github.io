@@ -1,0 +1,155 @@
+body {
+    margin: 0 auto;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+header {
+    width: 100%;
+    background-color: grey;
+    height: 200px;
+}
+
+nav {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+}
+
+.topbanner {
+    width: 100%;
+    height: 400px;
+    background-color: #d4d4d4;
+    margin-bottom: 50px;
+}
+
+.homenav1 {
+    width: 30%;
+    height: 250px;
+    background-color: gainsboro;
+    float: left;
+}
+
+.homenav2 {
+    width: 30%;
+    height: 250px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: gainsboro;
+    float: left;
+}
+
+.homenav3 {
+    width: 30%;
+    height: 250px;
+    background-color: gainsboro;
+    float: left;
+}
+
+.product1 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-top: 50px;
+}
+
+.product2 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 52.5px;
+    margin-top: 50px;
+}
+
+.product3 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 52.5px;
+    margin-right: 52.5px;
+    margin-top: 50px;
+}
+
+.product4 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-right: 52.5px;
+    margin-top: 50px;
+}
+
+.product5 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-top: 50px;
+}
+
+.product6 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-top: 50px;
+}
+
+.product7 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 52.5px;
+    margin-top: 50px;
+}
+
+.product8 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 52.5px;
+    margin-right: 52.5px;
+    margin-top: 50px;
+}
+
+.product9 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-right: 52.5px;
+    margin-top: 50px;
+}
+
+.product10 {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-top: 50px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin-top: 50px;
+}
