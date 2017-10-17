@@ -37,14 +37,14 @@ li {
 
 .homenav1 {
     width: 30%;
-    height: 250px;
+    height: 200px;
     background-color: gainsboro;
     float: left;
 }
 
 .homenav2 {
     width: 30%;
-    height: 250px;
+    height: 200px;
     margin-left: 5%;
     margin-right: 5%;
     background-color: gainsboro;
@@ -53,7 +53,7 @@ li {
 
 .homenav3 {
     width: 30%;
-    height: 250px;
+    height: 200px;
     background-color: gainsboro;
     float: left;
 }
