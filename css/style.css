@@ -147,7 +147,8 @@ li {
 }
 
 .pro-name {
-  font-family: sans-serif;;
+  font-family: sans-serif;
+  position: relative;
 }
 
 .pro-desc {
